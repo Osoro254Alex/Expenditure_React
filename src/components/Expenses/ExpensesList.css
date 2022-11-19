@@ -1,0 +1,10 @@
+.para-warm {
+  color: #fff;
+  text-align: center;
+}
+
+.expense-List {
+  display: flex;
+  flex-direction: column;
+  gap: .9rem;
+}
